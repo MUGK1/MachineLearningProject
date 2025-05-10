@@ -1,0 +1,11 @@
+
+📑 Classification Report:
+              precision    recall  f1-score   support
+
+inscriptions       0.88      0.99      0.93       350
+ manuscripts       0.96      1.00      0.98       276
+       other       0.99      0.87      0.92       441
+
+    accuracy                           0.94      1067
+   macro avg       0.94      0.95      0.94      1067
+weighted avg       0.95      0.94      0.94      1067
